@@ -1,0 +1,8 @@
+D:\UNIV\3_KURS_6_SEM\Волович\DZ\курс\LookUp\LookUpServer\bin\Debug\LookUpServer.exe.config
+D:\UNIV\3_KURS_6_SEM\Волович\DZ\курс\LookUp\LookUpServer\bin\Debug\LookUpServer.exe
+D:\UNIV\3_KURS_6_SEM\Волович\DZ\курс\LookUp\LookUpServer\bin\Debug\LookUpServer.pdb
+D:\UNIV\3_KURS_6_SEM\Волович\DZ\курс\LookUp\LookUpServer\obj\x86\Debug\LookUpServer.exe
+D:\UNIV\3_KURS_6_SEM\Волович\DZ\курс\LookUp\LookUpServer\obj\x86\Debug\LookUpServer.pdb
+D:\UNIV\3_KURS_6_SEM\Волович\DZ\курс\LookUp\LookUpServer\bin\Debug\LookUpLib.dll
+D:\UNIV\3_KURS_6_SEM\Волович\DZ\курс\LookUp\LookUpServer\bin\Debug\LookUpLib.pdb
+D:\UNIV\3_KURS_6_SEM\Волович\DZ\курс\LookUp\LookUpServer\obj\x86\Debug\LookUpServer.csprojResolveAssemblyReference.cache

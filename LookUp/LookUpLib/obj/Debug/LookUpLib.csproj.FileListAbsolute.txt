@@ -1,0 +1,4 @@
+D:\UNIV\3_KURS_6_SEM\Волович\DZ\курс\LookUp\LookUpLib\bin\Debug\LookUpLib.dll
+D:\UNIV\3_KURS_6_SEM\Волович\DZ\курс\LookUp\LookUpLib\bin\Debug\LookUpLib.pdb
+D:\UNIV\3_KURS_6_SEM\Волович\DZ\курс\LookUp\LookUpLib\obj\Debug\LookUpLib.dll
+D:\UNIV\3_KURS_6_SEM\Волович\DZ\курс\LookUp\LookUpLib\obj\Debug\LookUpLib.pdb
